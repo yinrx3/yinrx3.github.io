@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.png"
   name             : "Yin Runxuan"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at SYSU"
-  location         : "Earth"
+  location         : "Guangzhou Guangdong"
   employer         : "Sun Yat-sen University"
   uri              : # URL
   email            : "yinrx3@mail2.sysu.edu.cn" 
